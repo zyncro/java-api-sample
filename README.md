@@ -1,5 +1,6 @@
 Java Api Example
 ================
+
 This example shows how to use the Zyncro REST API from Java.
 
 We use [Scribe](https://github.com/fernandezpablo85/scribe-java "Scribe") as the OAuth client library.
